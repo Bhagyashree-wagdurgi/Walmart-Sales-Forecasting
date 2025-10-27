@@ -2,8 +2,6 @@
 End-to-end data analysis and forecasting project using Walmart’s weekly sales data. Includes EDA, correlation analysis, and Holt–Winters time series forecasting for 5 top-performing stores to predict the next 12 weeks of sales. Tools: Python, Pandas, Matplotlib, Statsmodels
 Perfect 👍 You want a **numbered, detailed, professional `README.md`** that’s ready for GitHub — explaining both the **business** and **technical** sides of your **Walmart Sales Forecasting Project**.
 
-Below is a **fully expanded version** (with numbering, structure, and Markdown formatting) you can copy directly into your repository:
-
 ---
 
 # 🏪 Walmart Sales Forecasting Project
